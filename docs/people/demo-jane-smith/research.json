@@ -9,8 +9,8 @@
     },
     {
       "type": "search_query",
-      "url": "https://duckduckgo.com/?q=%22Demo%20Jane%20Smith%22%20%22Example%20Co%22",
-      "title": "\"Demo Jane Smith\" \"Example Co\"",
+      "url": "https://duckduckgo.com/?q=%22Demo%20Jane%20Smith%22%20%22Acme%20AI%22",
+      "title": "\"Demo Jane Smith\" \"Acme AI\"",
       "confidence": 0.45
     },
     {
@@ -28,18 +28,18 @@
   ],
   "claims": [
     {
-      "claim": "Demo Jane Smith is associated with Example Co or the submitted email domain.",
+      "claim": "Demo Jane Smith is associated with Acme AI or the submitted email domain.",
       "source": "submitted email/company input",
       "confidence": 0.72
     },
     {
-      "claim": "Profile generated for the stated goal: personal brand demo",
+      "claim": "Profile generated for the stated goal: AI automation consultant landing page",
       "source": "workflow input",
       "confidence": 0.95
     }
   ],
   "queries": [
-    "\"Demo Jane Smith\" \"Example Co\"",
+    "\"Demo Jane Smith\" \"Acme AI\"",
     "\"Demo Jane Smith\" \"example.com\"",
     "\"Demo Jane Smith\" LinkedIn"
   ]
