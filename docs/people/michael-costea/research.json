@@ -26,6 +26,12 @@
       "confidence": 0.45
     },
     {
+      "type": "brave_web_unavailable",
+      "url": "#",
+      "title": "HTTPError: HTTP Error 422: Unprocessable Entity",
+      "confidence": 0.1
+    },
+    {
       "type": "first_party_profile",
       "url": "https://michaelcostea.com/",
       "title": "Michael Costea public portfolio / personal site",
@@ -181,5 +187,7 @@
         "confidence": 0.9
       }
     ]
-  }
+  },
+  "images": [],
+  "search_provider": "fallback"
 }
