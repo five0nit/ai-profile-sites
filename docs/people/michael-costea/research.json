@@ -44,10 +44,11 @@
       "confidence": 0.5
     },
     {
-      "type": "brave_web_unavailable",
+      "type": "hermes_search_mode",
       "url": "#",
-      "title": "HTTPError: HTTP Error 422: Unprocessable Entity",
-      "confidence": 0.1
+      "title": "Hermes/search-receipt mode active",
+      "description": "n8n delegates synthesis and next-step research reasoning to Hermes while deterministic receipts preserve the exact LinkedIn/web queries used.",
+      "confidence": 0.8
     },
     {
       "type": "first_party_profile",
@@ -279,5 +280,5 @@
       "confidence": 0.82
     }
   ],
-  "search_provider": "fallback"
+  "search_provider": "hermes_research_receipts"
 }
