@@ -1,5 +1,5 @@
 {
-  "identity_confidence": 0.92,
+  "identity_confidence": 0.96,
   "sources": [
     {
       "type": "company_domain_attempt",
@@ -74,6 +74,41 @@
       "title": "Automated profile research mode",
       "description": "The workflow gathered public web, LinkedIn and domain signals for the private audit page.",
       "confidence": 0.8
+    },
+    {
+      "type": "public_article",
+      "url": "https://www.thesafestep.com.au/julie-honore-advisory-board-appointment",
+      "title": "Julie Honore - Advisory Board Appointment | The Safe Step",
+      "description": "Appointment to advisory board; founded, grew and divested three specialist search firms; HR and Health & Safety experience.",
+      "confidence": 0.9
+    },
+    {
+      "type": "public_article",
+      "url": "https://www.thenextstep.com.au/pivotal-advisory-appointment-julie-honore",
+      "title": "Pivotal Advisory Appointment: Julie Honore | The Next Step",
+      "description": "Advisory appointment to The Next Group; contribution to The Next Step and The Safe Step.",
+      "confidence": 0.9
+    },
+    {
+      "type": "public_profile",
+      "url": "https://rocketreach.co/julie-honore-email_8675114",
+      "title": "Julie Honore - Honore Advisory Director | RocketReach",
+      "description": "Director at Honore Advisory; Melbourne, VIC; previous Deloitte Australia, Board Search business, Manpower and safesearch/envirosearch references.",
+      "confidence": 0.78
+    },
+    {
+      "type": "linkedin_search_snippet",
+      "url": "https://au.linkedin.com/in/jhonore",
+      "title": "Julie Honore - LinkedIn public search result",
+      "description": "Public search snippet mentions selective advisory board engagements, pro bono work, business advisory, search and talent acquisition, and founding/divesting three specialist search firms.",
+      "confidence": 0.72
+    },
+    {
+      "type": "registry",
+      "url": "https://abr.business.gov.au/ABN/View/12112982680",
+      "title": "HONORE ADVISORY PTY LTD - ABN Lookup",
+      "description": "Australian Private Company registry record for Honore Advisory Pty Ltd.",
+      "confidence": 0.65
     }
   ],
   "claims": [
@@ -86,6 +121,21 @@
       "claim": "Profile generated for the stated goal: personal advisory brand website",
       "source": "workflow input",
       "confidence": 0.95
+    },
+    {
+      "claim": "Julie is Director at Honore Advisory in Melbourne, VIC.",
+      "source": "RocketReach public profile",
+      "confidence": 0.78
+    },
+    {
+      "claim": "Julie was appointed to advisory board roles connected to The Safe Step and The Next Step.",
+      "source": "The Safe Step / The Next Step articles",
+      "confidence": 0.9
+    },
+    {
+      "claim": "Julie founded, grew and divested three specialist search firms after a consulting career.",
+      "source": "The Safe Step / LinkedIn public search snippets",
+      "confidence": 0.86
     }
   ],
   "queries": [
@@ -114,7 +164,114 @@
     "\"Julie Honore\" Honore Advisory Melbourne Australia"
   ],
   "discovered_terms": [],
-  "profile_enrichment": {},
+  "profile_enrichment": {
+    "headline": "Director at Honore Advisory · Advisory Board contributor",
+    "summary": "Julie Honore works through Honore Advisory in Melbourne, bringing deep experience in business advisory, executive search, talent acquisition and board-level contribution.",
+    "positioning": "Julie brings senior search, talent and advisory experience to organisations that value integrity, fresh thinking and practical commercial judgement.",
+    "current_focus": [
+      "Director at Honore Advisory, based in Melbourne, Victoria.",
+      "Selective advisory board engagements and pro bono work for worthwhile causes, according to public LinkedIn search snippets.",
+      "Advisory Board contribution for The Safe Step and sibling brand The Next Step."
+    ],
+    "what_they_have_done": [
+      "Founded, grew and divested three specialist search firms after a successful consulting career.",
+      "Built experience across business advisory, search and talent acquisition, including Deloitte Australia, Manpower and safesearch/envirosearch according to public profile references.",
+      "Recognised by The Safe Step and The Next Step for integrity, fresh thinking and commitment to excellence in advisory board appointments."
+    ],
+    "experience_timeline": [
+      {
+        "period": "Current",
+        "role": "Director",
+        "org": "Honore Advisory",
+        "detail": "Melbourne-based advisory work; public profile references identify Julie as Director at Honore Advisory."
+      },
+      {
+        "period": "Advisory Board",
+        "role": "Advisory Board contributor",
+        "org": "The Safe Step / The Next Step",
+        "detail": "Appointed in an advisory capacity to contribute to strategic initiatives and ongoing success."
+      },
+      {
+        "period": "Career foundation",
+        "role": "Founder / business builder",
+        "org": "Specialist search firms",
+        "detail": "Founded, grew and divested three specialist search firms following a consulting career."
+      },
+      {
+        "period": "Earlier roles",
+        "role": "Consulting, search and talent acquisition",
+        "org": "Deloitte Australia, Manpower, safesearch/envirosearch",
+        "detail": "Public profile references connect Julie with executive search, recruitment, organisational design, organisational effectiveness and health and safety."
+      }
+    ],
+    "systems_and_projects": [
+      "Business advisory",
+      "Executive search and talent acquisition",
+      "Advisory board contribution",
+      "Organisational design and effectiveness",
+      "Health, safety and people-focused professional services"
+    ],
+    "operating_principles": [
+      "Start with context before recommendations.",
+      "Bring direct, thoughtful judgement to important conversations.",
+      "Focus on integrity, useful introductions and practical next steps."
+    ],
+    "sources": [
+      {
+        "type": "public_article",
+        "url": "https://www.thesafestep.com.au/julie-honore-advisory-board-appointment",
+        "title": "Julie Honore - Advisory Board Appointment | The Safe Step",
+        "description": "Appointment to advisory board; founded, grew and divested three specialist search firms; HR and Health & Safety experience.",
+        "confidence": 0.9
+      },
+      {
+        "type": "public_article",
+        "url": "https://www.thenextstep.com.au/pivotal-advisory-appointment-julie-honore",
+        "title": "Pivotal Advisory Appointment: Julie Honore | The Next Step",
+        "description": "Advisory appointment to The Next Group; contribution to The Next Step and The Safe Step.",
+        "confidence": 0.9
+      },
+      {
+        "type": "public_profile",
+        "url": "https://rocketreach.co/julie-honore-email_8675114",
+        "title": "Julie Honore - Honore Advisory Director | RocketReach",
+        "description": "Director at Honore Advisory; Melbourne, VIC; previous Deloitte Australia, Board Search business, Manpower and safesearch/envirosearch references.",
+        "confidence": 0.78
+      },
+      {
+        "type": "linkedin_search_snippet",
+        "url": "https://au.linkedin.com/in/jhonore",
+        "title": "Julie Honore - LinkedIn public search result",
+        "description": "Public search snippet mentions selective advisory board engagements, pro bono work, business advisory, search and talent acquisition, and founding/divesting three specialist search firms.",
+        "confidence": 0.72
+      },
+      {
+        "type": "registry",
+        "url": "https://abr.business.gov.au/ABN/View/12112982680",
+        "title": "HONORE ADVISORY PTY LTD - ABN Lookup",
+        "description": "Australian Private Company registry record for Honore Advisory Pty Ltd.",
+        "confidence": 0.65
+      }
+    ],
+    "images": [],
+    "claims": [
+      {
+        "claim": "Julie is Director at Honore Advisory in Melbourne, VIC.",
+        "source": "RocketReach public profile",
+        "confidence": 0.78
+      },
+      {
+        "claim": "Julie was appointed to advisory board roles connected to The Safe Step and The Next Step.",
+        "source": "The Safe Step / The Next Step articles",
+        "confidence": 0.9
+      },
+      {
+        "claim": "Julie founded, grew and divested three specialist search firms after a consulting career.",
+        "source": "The Safe Step / LinkedIn public search snippets",
+        "confidence": 0.86
+      }
+    ]
+  },
   "images": [],
   "search_provider": "hermes_research_receipts"
 }

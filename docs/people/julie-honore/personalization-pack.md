@@ -1,10 +1,10 @@
 # Personalization Pack — Julie Honore
 
 ## Brand strategy
-Julie Honore works through Honore Advisory, focused on advisory conversations, professional context and useful next steps.
+Julie brings senior search, talent and advisory experience to organisations that value integrity, fresh thinking and practical commercial judgement.
 
 ## LinkedIn bio rewrite
-Julie Honore — Honore Advisory — advisory profile. Focused on clear communication, useful public context, and opportunity-ready positioning.
+Julie Honore — Director at Honore Advisory · Advisory Board contributor. Focused on clear communication, useful public context, and opportunity-ready positioning.
 
 ## Intro email
 Subject: Quick profile-site concept for Julie Honore

@@ -1,6 +1,54 @@
 {
   "name": "Julie Honore",
-  "headline": "Honore Advisory — advisory profile",
-  "summary": "Hi, I’m Julie. This is my website — a simple place to understand my work, background and focus around Honore Advisory.",
-  "company": "Honore Advisory Melbourne Australia"
+  "headline": "Director at Honore Advisory · Advisory Board contributor",
+  "summary": "Julie Honore works through Honore Advisory in Melbourne, bringing deep experience in business advisory, executive search, talent acquisition and board-level contribution.",
+  "company": "Honore Advisory Melbourne Australia",
+  "current_focus": [
+    "Director at Honore Advisory, based in Melbourne, Victoria.",
+    "Selective advisory board engagements and pro bono work for worthwhile causes, according to public LinkedIn search snippets.",
+    "Advisory Board contribution for The Safe Step and sibling brand The Next Step."
+  ],
+  "what_they_have_done": [
+    "Founded, grew and divested three specialist search firms after a successful consulting career.",
+    "Built experience across business advisory, search and talent acquisition, including Deloitte Australia, Manpower and safesearch/envirosearch according to public profile references.",
+    "Recognised by The Safe Step and The Next Step for integrity, fresh thinking and commitment to excellence in advisory board appointments."
+  ],
+  "experience_timeline": [
+    {
+      "period": "Current",
+      "role": "Director",
+      "org": "Honore Advisory",
+      "detail": "Melbourne-based advisory work; public profile references identify Julie as Director at Honore Advisory."
+    },
+    {
+      "period": "Advisory Board",
+      "role": "Advisory Board contributor",
+      "org": "The Safe Step / The Next Step",
+      "detail": "Appointed in an advisory capacity to contribute to strategic initiatives and ongoing success."
+    },
+    {
+      "period": "Career foundation",
+      "role": "Founder / business builder",
+      "org": "Specialist search firms",
+      "detail": "Founded, grew and divested three specialist search firms following a consulting career."
+    },
+    {
+      "period": "Earlier roles",
+      "role": "Consulting, search and talent acquisition",
+      "org": "Deloitte Australia, Manpower, safesearch/envirosearch",
+      "detail": "Public profile references connect Julie with executive search, recruitment, organisational design, organisational effectiveness and health and safety."
+    }
+  ],
+  "systems_and_projects": [
+    "Business advisory",
+    "Executive search and talent acquisition",
+    "Advisory board contribution",
+    "Organisational design and effectiveness",
+    "Health, safety and people-focused professional services"
+  ],
+  "operating_principles": [
+    "Start with context before recommendations.",
+    "Bring direct, thoughtful judgement to important conversations.",
+    "Focus on integrity, useful introductions and practical next steps."
+  ]
 }
