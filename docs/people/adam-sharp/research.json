@@ -1,16 +1,17 @@
 {
-  "identity_confidence": 0.92,
+  "identity_confidence": 0.82,
   "sources": [
     {
-      "type": "company_domain",
-      "url": "https://yahoo.com",
-      "title": "Yahoo! Australia | Mail, Weather, Search, Politics, News, Finance, Sports and Videos",
-      "confidence": 0.55
+      "type": "email_provider",
+      "url": "#",
+      "title": "Submitted contact uses yahoo.com",
+      "description": "Public email provider only; not treated as employer or company evidence.",
+      "confidence": 0.35
     },
     {
       "type": "search_query",
-      "url": "https://duckduckgo.com/?q=%22Adam%20Sharp%22%20%22Yahoo%22",
-      "title": "\"Adam Sharp\" \"Yahoo\"",
+      "url": "https://duckduckgo.com/?q=%22Adam%20Sharp%22%20%22%22",
+      "title": "\"Adam Sharp\" \"\"",
       "confidence": 0.45
     },
     {
@@ -33,8 +34,8 @@
     },
     {
       "type": "linkedin_search",
-      "url": "https://duckduckgo.com/?q=%22Adam%20Sharp%22%20%22Yahoo%22%20site%3Alinkedin.com/in",
-      "title": "\"Adam Sharp\" \"Yahoo\" site:linkedin.com/in",
+      "url": "https://duckduckgo.com/?q=%22Adam%20Sharp%22%20%22%22%20site%3Alinkedin.com/in",
+      "title": "\"Adam Sharp\" \"\" site:linkedin.com/in",
       "confidence": 0.5
     },
     {
@@ -53,24 +54,19 @@
   ],
   "claims": [
     {
-      "claim": "Adam Sharp is associated with Yahoo or the submitted email domain.",
-      "source": "submitted email/company input",
-      "confidence": 0.72
-    },
-    {
-      "claim": "Profile generated for the stated goal: personal brand and profile website demo",
+      "claim": "Profile generated for the stated goal: personal brand and profile website",
       "source": "workflow input",
       "confidence": 0.95
     }
   ],
   "queries": [
-    "\"Adam Sharp\" \"Yahoo\"",
+    "\"Adam Sharp\" \"\"",
     "\"Adam Sharp\" \"yahoo.com\"",
     "\"Adam Sharp\" LinkedIn"
   ],
   "linkedin_queries": [
     "\"Adam Sharp\" site:linkedin.com/in",
-    "\"Adam Sharp\" \"Yahoo\" site:linkedin.com/in",
+    "\"Adam Sharp\" \"\" site:linkedin.com/in",
     "\"Adam Sharp\" \"Head of Tech\" LinkedIn"
   ],
   "profile_enrichment": {},
