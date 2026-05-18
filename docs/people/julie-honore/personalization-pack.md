@@ -1,7 +1,7 @@
 # Personalization Pack — Julie Honore
 
 ## Brand strategy
-Julie brings senior search, talent and advisory experience to organisations that value integrity, fresh thinking and practical commercial judgement.
+Senior search, talent and board-level advisory for organisations that value integrity, fresh thinking and practical commercial judgement.
 
 ## LinkedIn bio rewrite
 Julie Honore — Director at Honore Advisory · Advisory Board contributor. Focused on clear communication, useful public context, and opportunity-ready positioning.
