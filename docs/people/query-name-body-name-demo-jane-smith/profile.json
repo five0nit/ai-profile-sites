@@ -1,0 +1,6 @@
+{
+  "name": "{{.query?.name || .body?.name || 'Demo Jane Smith'}}",
+  "headline": "Professional profile concept for {{.query?.name || .body?.name || 'Demo Jane Smith'}}",
+  "summary": "A public-source, consent-based demo profile for {{.query?.name || .body?.name || 'Demo Jane Smith'}}, positioned around {{.query?.goal || .body?.goal || 'personal brand demo'}}.",
+  "company": "{{.query?.company || .body?.company || 'Example Co'}}"
+}

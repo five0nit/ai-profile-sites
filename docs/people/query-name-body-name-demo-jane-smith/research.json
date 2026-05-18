@@ -1,0 +1,46 @@
+{
+  "identity_confidence": 0.92,
+  "sources": [
+    {
+      "type": "company_domain_attempt",
+      "url": "https://example.com'}}",
+      "title": "Domain check unavailable: URLError",
+      "confidence": 0.2
+    },
+    {
+      "type": "search_query",
+      "url": "https://duckduckgo.com/?q=%22%7B%7B.query%3F.name%20%7C%7C%20.body%3F.name%20%7C%7C%20%27Demo%20Jane%20Smith%27%7D%7D%22%20%22%7B%7B.query%3F.company%20%7C%7C%20.body%3F.company%20%7C%7C%20%27Example%20Co%27%7D%7D%22",
+      "title": "\"{{.query?.name || .body?.name || 'Demo Jane Smith'}}\" \"{{.query?.company || .body?.company || 'Example Co'}}\"",
+      "confidence": 0.45
+    },
+    {
+      "type": "search_query",
+      "url": "https://duckduckgo.com/?q=%22%7B%7B.query%3F.name%20%7C%7C%20.body%3F.name%20%7C%7C%20%27Demo%20Jane%20Smith%27%7D%7D%22%20%22example.com%27%7D%7D%22",
+      "title": "\"{{.query?.name || .body?.name || 'Demo Jane Smith'}}\" \"example.com'}}\"",
+      "confidence": 0.45
+    },
+    {
+      "type": "search_query",
+      "url": "https://duckduckgo.com/?q=%22%7B%7B.query%3F.name%20%7C%7C%20.body%3F.name%20%7C%7C%20%27Demo%20Jane%20Smith%27%7D%7D%22%20LinkedIn",
+      "title": "\"{{.query?.name || .body?.name || 'Demo Jane Smith'}}\" LinkedIn",
+      "confidence": 0.45
+    }
+  ],
+  "claims": [
+    {
+      "claim": "{{.query?.name || .body?.name || 'Demo Jane Smith'}} is associated with {{.query?.company || .body?.company || 'Example Co'}} or the submitted email domain.",
+      "source": "submitted email/company input",
+      "confidence": 0.72
+    },
+    {
+      "claim": "Profile generated for the stated goal: {{.query?.goal || .body?.goal || 'personal brand demo'}}",
+      "source": "workflow input",
+      "confidence": 0.95
+    }
+  ],
+  "queries": [
+    "\"{{.query?.name || .body?.name || 'Demo Jane Smith'}}\" \"{{.query?.company || .body?.company || 'Example Co'}}\"",
+    "\"{{.query?.name || .body?.name || 'Demo Jane Smith'}}\" \"example.com'}}\"",
+    "\"{{.query?.name || .body?.name || 'Demo Jane Smith'}}\" LinkedIn"
+  ]
+}

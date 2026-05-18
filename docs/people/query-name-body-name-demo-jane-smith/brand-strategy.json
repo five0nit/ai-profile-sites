@@ -1,0 +1,10 @@
+{
+  "positioning": "AI-ready professional profile for {{.query?.name || .body?.name || 'Demo Jane Smith'}}",
+  "audience": "founders, operators, recruiters, collaborators",
+  "tone": "{{.query?.tone || .body?.tone || 'executive, founder, creative'}}",
+  "taglines": [
+    "Meet {{.query?.name || .body?.name || 'Demo Jane Smith'}}, through a sharper digital profile.",
+    "Public signals turned into a polished personal brand page.",
+    "A profile site built from evidence, not guesswork."
+  ]
+}
