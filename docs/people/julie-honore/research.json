@@ -27,30 +27,6 @@
       "confidence": 0.35
     },
     {
-      "type": "web_discovery_result",
-      "url": "https://en.wikipedia.org/wiki/Julie_(given_name)",
-      "title": "Julie (given name) - Wikipedia",
-      "description": "",
-      "query": "\"Julie Honore\" \"julie@honoreadvisory.com\"",
-      "confidence": 0.5
-    },
-    {
-      "type": "web_discovery_result",
-      "url": "https://www.abc.net.au/news/2026-05-08/julie-bishop-resigns-as-anu-chancellor/106657576",
-      "title": "Julie Bishop resigns as Australian National University chancellor",
-      "description": "",
-      "query": "\"Julie Honore\" \"julie@honoreadvisory.com\"",
-      "confidence": 0.5
-    },
-    {
-      "type": "web_discovery_result",
-      "url": "https://www.juliecross.com.au/",
-      "title": "Front Page - Julie Cross",
-      "description": "",
-      "query": "\"Julie Honore\" \"julie@honoreadvisory.com\"",
-      "confidence": 0.5
-    },
-    {
       "type": "linkedin_search_status",
       "url": "#",
       "title": "No unique LinkedIn profile confirmed",
