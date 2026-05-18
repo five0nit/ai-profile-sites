@@ -1,7 +1,7 @@
 # Personalization Pack — Julie Honore
 
 ## Brand strategy
-A polished professional presence for Julie Honore, shaped around Honore Advisory Melbourne Australia and personal advisory brand website.
+A polished personal brand site for Julie Honore, shaped around Honore Advisory and personal advisory brand website.
 
 ## LinkedIn bio rewrite
 Julie Honore — Hi, I'm Julie Honore.. Focused on clear communication, useful public context, and opportunity-ready positioning.
