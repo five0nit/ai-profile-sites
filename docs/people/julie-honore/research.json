@@ -27,11 +27,46 @@
       "confidence": 0.35
     },
     {
+      "type": "google_search",
+      "url": "https://www.google.com/search?q=%22Julie%20Honore%22%20%22Honore%20Advisory%20Melbourne%20Australia%22",
+      "title": "\"Julie Honore\" \"Honore Advisory Melbourne Australia\"",
+      "description": "Google search URL generated for public profile discovery and manual audit.",
+      "confidence": 0.35
+    },
+    {
+      "type": "google_search",
+      "url": "https://www.google.com/search?q=%22Julie%20Honore%22%20%22honoreadvisory.com%22",
+      "title": "\"Julie Honore\" \"honoreadvisory.com\"",
+      "description": "Google search URL generated for public profile discovery and manual audit.",
+      "confidence": 0.35
+    },
+    {
+      "type": "google_search",
+      "url": "https://www.google.com/search?q=%22Julie%20Honore%22%20LinkedIn",
+      "title": "\"Julie Honore\" LinkedIn",
+      "description": "Google search URL generated for public profile discovery and manual audit.",
+      "confidence": 0.35
+    },
+    {
       "type": "linkedin_search_status",
       "url": "#",
       "title": "No unique LinkedIn profile confirmed",
       "description": "Search returned no unambiguous linkedin.com/in candidate for this name/context.",
       "confidence": 0.25
+    },
+    {
+      "type": "image_search",
+      "url": "https://www.bing.com/images/search?q=%22Julie%20Honore%22%20%22Honore%20Advisory%20Melbourne%20Australia%22",
+      "title": "\"Julie Honore\" \"Honore Advisory Melbourne Australia\"",
+      "description": "Image search run for public/profile visuals.",
+      "confidence": 0.35
+    },
+    {
+      "type": "image_search",
+      "url": "https://www.bing.com/images/search?q=%22Julie%20Honore%22%20profile%20photo",
+      "title": "\"Julie Honore\" profile photo",
+      "description": "Image search run for public/profile visuals.",
+      "confidence": 0.35
     },
     {
       "type": "research_mode",
@@ -61,7 +96,16 @@
   "linkedin_queries": [
     "\"Julie Honore\" site:linkedin.com/in",
     "\"Julie Honore\" \"Honore Advisory Melbourne Australia\" site:linkedin.com/in",
-    "\"Julie Honore\" \"Head of Tech\" LinkedIn"
+    "\"Julie Honore\" \"honoreadvisory.com\" site:linkedin.com/in"
+  ],
+  "google_queries": [
+    "\"Julie Honore\" \"Honore Advisory Melbourne Australia\"",
+    "\"Julie Honore\" \"honoreadvisory.com\"",
+    "\"Julie Honore\" LinkedIn"
+  ],
+  "image_queries": [
+    "\"Julie Honore\" \"Honore Advisory Melbourne Australia\"",
+    "\"Julie Honore\" profile photo"
   ],
   "discovery_queries": [
     "\"Julie Honore\" \"julie@honoreadvisory.com\"",
@@ -71,6 +115,47 @@
   ],
   "discovered_terms": [],
   "profile_enrichment": {},
-  "images": [],
+  "images": [
+    {
+      "title": "Jonah Heim hits walk off home run again vs. Mariners",
+      "thumbnail_url": "https://ts4.mm.bing.net/th?id=OIP.5ZgbF0a4xmoZnZytIwvFPwEsCW&pid=15.1",
+      "image_url": "https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/gph5vwjkzsv27kbkmx2s.jpg",
+      "source_url": "https://www.mlb.com/news/jonah-heim-hits-walk-off-home-run-again-vs-mariners",
+      "source_name": "www.mlb.com",
+      "confidence": 0.45
+    },
+    {
+      "title": "Jonah Heim hits a walk-off home run vs. Mariners",
+      "thumbnail_url": "https://ts3.mm.bing.net/th?id=OIP.kR4mPso4vR9DHE-YV81TLwHaDt&pid=15.1",
+      "image_url": "https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/vdmkubtxglwirvwwrfqq.jpg",
+      "source_url": "https://www.mlb.com/news/jonah-heim-hits-a-walk-off-home-run-vs-mariners",
+      "source_name": "www.mlb.com",
+      "confidence": 0.45
+    },
+    {
+      "title": "Jonah Heim crushes a walk-off three-run home run | 04/11/2023 | MLB.com",
+      "thumbnail_url": "https://ts3.mm.bing.net/th?id=OIP.YQi50-J9jlEaeq0xtWmdNQAAAA&pid=15.1",
+      "image_url": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/yzpuxbiknncnvkqmv8ar",
+      "source_url": "https://www.mlb.com/video/heim-s-walk-off-three-run-hr-2",
+      "source_name": "www.mlb.com",
+      "confidence": 0.45
+    },
+    {
+      "title": "Walker Texas Ranger Photos and Premium High Res Pictures - Getty Images",
+      "thumbnail_url": "https://ts3.mm.bing.net/th?id=OIP.KTR7fdAHvq9Gp4a5fCsANQHaEs&pid=15.1",
+      "image_url": "https://media.gettyimages.com/id/1234386552/photo/jonah-heim-of-the-texas-rangers-reacts-after-hitting-a-walk-off-solo-home-run-to-defeat-the.jpg?s=612x612&w=gi&k=20&c=d5gepCkCn8Uq2gjoCKE4OANVF1MSrC7bmHEHhej_3PU=",
+      "source_url": "https://www.gettyimages.com/photos/walker-texas-ranger",
+      "source_name": "www.gettyimages.com",
+      "confidence": 0.45
+    },
+    {
+      "title": "基本からアレンジまで！思わずつくりたくなる「孟宗竹 煮物」のレシピ集 | クックパッド",
+      "thumbnail_url": "https://ts4.explicit.bing.net/th?id=OIP.mcggA0A3PlEsztUxiLWQXAHaD4&pid=15.1",
+      "image_url": "https://img-global-jp.cpcdn.com/recipes/3901690/1200x630cq80/photo.jpg",
+      "source_url": "https://cookpad.com/jp/search/孟宗竹 煮物",
+      "source_name": "cookpad.com",
+      "confidence": 0.45
+    }
+  ],
   "search_provider": "hermes_research_receipts"
 }

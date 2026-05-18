@@ -1,7 +1,7 @@
 # Personalization Pack — Julie Honore
 
 ## Brand strategy
-A polished personal brand site for Julie Honore, shaped around Honore Advisory and personal advisory brand website.
+Julie Honore works through Honore Advisory, with a professional focus on personal advisory brand website.
 
 ## LinkedIn bio rewrite
 Julie Honore — Honore Advisory — advisory profile. Focused on clear communication, useful public context, and opportunity-ready positioning.
