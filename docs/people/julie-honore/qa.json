@@ -1,0 +1,7 @@
+{
+  "qa_passed": true,
+  "removed_claims": 0,
+  "warnings": [
+    "Fallback deterministic content used where AI artifacts were not explicit."
+  ]
+}

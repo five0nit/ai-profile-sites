@@ -1,0 +1,86 @@
+{
+  "identity_confidence": 0.92,
+  "sources": [
+    {
+      "type": "company_domain_attempt",
+      "url": "https://honoreadvisory.com",
+      "title": "Domain check unavailable: URLError",
+      "confidence": 0.2
+    },
+    {
+      "type": "search_query",
+      "url": "https://duckduckgo.com/?q=%22Julie%20Honore%22%20%22Honore%20Advisory%22",
+      "title": "\"Julie Honore\" \"Honore Advisory\"",
+      "confidence": 0.45
+    },
+    {
+      "type": "search_query",
+      "url": "https://duckduckgo.com/?q=%22Julie%20Honore%22%20%22honoreadvisory.com%22",
+      "title": "\"Julie Honore\" \"honoreadvisory.com\"",
+      "confidence": 0.45
+    },
+    {
+      "type": "search_query",
+      "url": "https://duckduckgo.com/?q=%22Julie%20Honore%22%20LinkedIn",
+      "title": "\"Julie Honore\" LinkedIn",
+      "confidence": 0.45
+    },
+    {
+      "type": "linkedin_search",
+      "url": "https://duckduckgo.com/?q=%22Julie%20Honore%22%20site%3Alinkedin.com/in",
+      "title": "\"Julie Honore\" site:linkedin.com/in",
+      "confidence": 0.5
+    },
+    {
+      "type": "linkedin_search",
+      "url": "https://duckduckgo.com/?q=%22Julie%20Honore%22%20%22Honore%20Advisory%22%20site%3Alinkedin.com/in",
+      "title": "\"Julie Honore\" \"Honore Advisory\" site:linkedin.com/in",
+      "confidence": 0.5
+    },
+    {
+      "type": "linkedin_search",
+      "url": "https://duckduckgo.com/?q=%22Julie%20Honore%22%20%22Head%20of%20Tech%22%20LinkedIn",
+      "title": "\"Julie Honore\" \"Head of Tech\" LinkedIn",
+      "confidence": 0.5
+    },
+    {
+      "type": "hermes_search_mode",
+      "url": "#",
+      "title": "Hermes/search-receipt mode active",
+      "description": "n8n delegates synthesis and next-step research reasoning to Hermes while deterministic receipts preserve the exact LinkedIn/web queries used.",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Julie Honore is associated with the submitted organisation/context: Honore Advisory.",
+      "source": "workflow input",
+      "confidence": 0.72
+    },
+    {
+      "claim": "Profile generated for the stated goal: professional advisory profile website for Melbourne Australia",
+      "source": "workflow input",
+      "confidence": 0.95
+    }
+  ],
+  "queries": [
+    "\"Julie Honore\" \"Honore Advisory\"",
+    "\"Julie Honore\" \"honoreadvisory.com\"",
+    "\"Julie Honore\" LinkedIn"
+  ],
+  "linkedin_queries": [
+    "\"Julie Honore\" site:linkedin.com/in",
+    "\"Julie Honore\" \"Honore Advisory\" site:linkedin.com/in",
+    "\"Julie Honore\" \"Head of Tech\" LinkedIn"
+  ],
+  "discovery_queries": [
+    "\"Julie Honore\" \"julie@honoreadvisory.com\"",
+    "\"Julie Honore\" profile",
+    "\"Julie Honore\" LinkedIn",
+    "\"Julie Honore\" Honore Advisory"
+  ],
+  "discovered_terms": [],
+  "profile_enrichment": {},
+  "images": [],
+  "search_provider": "hermes_research_receipts"
+}
