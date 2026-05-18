@@ -1,5 +1,5 @@
 {
-  "identity_confidence": 0.92,
+  "identity_confidence": 0.96,
   "sources": [
     {
       "type": "company_domain",
@@ -24,6 +24,24 @@
       "url": "https://duckduckgo.com/?q=%22Michael%20Costea%22%20LinkedIn",
       "title": "\"Michael Costea\" LinkedIn",
       "confidence": 0.45
+    },
+    {
+      "type": "first_party_profile",
+      "url": "https://michaelcostea.com/",
+      "title": "Michael Costea public portfolio / personal site",
+      "confidence": 0.9
+    },
+    {
+      "type": "first_party_context",
+      "url": "https://github.com/five0nit",
+      "title": "five0nit GitHub publishing/account context",
+      "confidence": 0.82
+    },
+    {
+      "type": "workflow_evidence",
+      "url": "https://five0nit.github.io/ai-profile-sites/",
+      "title": "AI Profile Sites demo publishing repository",
+      "confidence": 0.86
     }
   ],
   "claims": [
@@ -36,11 +54,132 @@
       "claim": "Profile generated for the stated goal: AI automation consultant landing page and personal brand demo",
       "source": "workflow input",
       "confidence": 0.95
+    },
+    {
+      "claim": "Michael is currently positioning around Head of Tech, AI & Systems / CTO-track systems leadership.",
+      "source": "first-party resume/profile context",
+      "confidence": 0.9
+    },
+    {
+      "claim": "Michael builds AI operating layers using n8n, Python, Hermes/OpenClaw-style agents, Telegram visibility, GitHub Pages publishing, and verification loops.",
+      "source": "current workflow/project evidence",
+      "confidence": 0.88
+    },
+    {
+      "claim": "Michael's background spans electrical field work, business development, marketing, sales operations, process/content systems, and owner/operator experience.",
+      "source": "first-party work-history context",
+      "confidence": 0.9
     }
   ],
   "queries": [
     "\"Michael Costea\" \"UseAIForMe / AI automation\"",
     "\"Michael Costea\" \"gmail.com\"",
     "\"Michael Costea\" LinkedIn"
-  ]
+  ],
+  "profile_enrichment": {
+    "summary": "Michael Costea builds AI-powered business operating systems that turn messy workflows into visible, scalable, human-reviewed systems.",
+    "current_focus": [
+      "Head of Tech, AI & Systems direction across multi-brand electrical and energy-service operations.",
+      "Building practical AI and workflow layers across lead response, customer journey, admin, reporting, and operational visibility.",
+      "Using n8n orchestration, Python-backed hardened logic, Hermes/OpenClaw-style agents, Telegram review loops, and GitHub/website deployment pipelines.",
+      "Keeping automation fail-closed and human-reviewed for customer trust, quality, finance, legal, and safety-sensitive decisions."
+    ],
+    "what_they_have_done": [
+      "Moved from licensed electrical/field delivery into business development, marketing, systems, and AI automation leadership.",
+      "Managed digital strategy, lead pathways, campaigns, partner resources, review automation, chatbots, IVR/customer-contact improvements, and frontline escalation support.",
+      "Built and modernised multi-brand digital surfaces for Want A Sparky, Want A Heat Pump, All Electric Homes, UseAIForMe, and personal brand experiments.",
+      "At Optus, worked across process, content, sales operations support, retention, knowledge bases, store-support workflows, duplicate-process reduction, and change rollout.",
+      "Owned and operated Bloom Coffee Bar, giving him direct operator context around service, customers, cashflow, staffing, and day-to-day execution."
+    ],
+    "experience_timeline": [
+      {
+        "period": "2026 — present",
+        "role": "Head of Tech, AI & Systems",
+        "org": "All Electric Homes",
+        "detail": "AI, automation, workflow architecture, growth systems, multi-brand digital infrastructure, and operational visibility."
+      },
+      {
+        "period": "2024 — 2026",
+        "role": "Business Development & Marketing Manager",
+        "org": "Want A Heat Pump / Want A Sparky / All Electric Homes",
+        "detail": "B2B/partner relations, revenue, acquisition/retention, websites, campaigns, IVR, chatbots, review automation, and operational support."
+      },
+      {
+        "period": "2023 — 2026",
+        "role": "Sales Manager",
+        "org": "Want A Heat Pump",
+        "detail": "CRM, strategic marketing, VEU heat pump upgrades, residential/commercial sales and conversion flows."
+      },
+      {
+        "period": "2018 — 2024",
+        "role": "Electrician / Smart-home & integration work",
+        "org": "Want A Sparky, Wired By MJD, Ezzy R Electrics",
+        "detail": "Domestic/commercial service work, smart-home integration, high-end AV/cinema, rack builds, data/security, fault finding, custom installs, and maintenance."
+      },
+      {
+        "period": "2017 — 2018",
+        "role": "Owner / Operator",
+        "org": "Bloom Coffee Bar",
+        "detail": "Set up and operated a customer-facing hospitality business."
+      },
+      {
+        "period": "2010 — 2017",
+        "role": "Sales Ops / Process / Content / Retention",
+        "org": "Optus",
+        "detail": "Store support, knowledge bases, process simplification, training/change support, duplicate-process reduction, and operational communications."
+      }
+    ],
+    "systems_and_projects": [
+      "n8n workflows that orchestrate AI tasks while Python scripts handle the hardened, repeatable logic underneath.",
+      "Hermes/OpenClaw agent stack with Telegram visibility, circuit breakers, hold queues, recovery workflows, source receipts, and verification steps.",
+      "AI Profile Site Generator: input a person, generate research/source receipts, build three tailored website variants, publish to GitHub Pages, and verify live URLs.",
+      "LinkedIn autonomous workflow state for drafting, queues, status checks, and credential readiness.",
+      "UseAIForMe marketplace/product surfaces, auth/debug loops, copy migration, customer-facing positioning, and Firebase deploy workflows.",
+      "Personal michaelcostea.com public site with AI Agents, AI Help, resume positioning, project work-log, and a MICHAEL OS 89 interface."
+    ],
+    "operating_principles": [
+      "Visible over magical: every automation should leave receipts, logs, evidence, and a final report.",
+      "APIs first, browser automation second, desktop/manual fallback last.",
+      "Automate repetitive drag, but keep humans on judgment, quality, customer trust, money, safety, and edge cases.",
+      "Start with one painful repeatable workflow, prove it saves time safely, then scale it.",
+      "Agents are strongest when monitored as an operating layer, not treated as one-off chatbots."
+    ],
+    "sources": [
+      {
+        "type": "first_party_profile",
+        "url": "https://michaelcostea.com/",
+        "title": "Michael Costea public portfolio / personal site",
+        "confidence": 0.9
+      },
+      {
+        "type": "first_party_context",
+        "url": "https://github.com/five0nit",
+        "title": "five0nit GitHub publishing/account context",
+        "confidence": 0.82
+      },
+      {
+        "type": "workflow_evidence",
+        "url": "https://five0nit.github.io/ai-profile-sites/",
+        "title": "AI Profile Sites demo publishing repository",
+        "confidence": 0.86
+      }
+    ],
+    "claims": [
+      {
+        "claim": "Michael is currently positioning around Head of Tech, AI & Systems / CTO-track systems leadership.",
+        "source": "first-party resume/profile context",
+        "confidence": 0.9
+      },
+      {
+        "claim": "Michael builds AI operating layers using n8n, Python, Hermes/OpenClaw-style agents, Telegram visibility, GitHub Pages publishing, and verification loops.",
+        "source": "current workflow/project evidence",
+        "confidence": 0.88
+      },
+      {
+        "claim": "Michael's background spans electrical field work, business development, marketing, sales operations, process/content systems, and owner/operator experience.",
+        "source": "first-party work-history context",
+        "confidence": 0.9
+      }
+    ]
+  }
 }
