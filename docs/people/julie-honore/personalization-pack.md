@@ -4,7 +4,7 @@
 A polished personal brand site for Julie Honore, shaped around Honore Advisory and personal advisory brand website.
 
 ## LinkedIn bio rewrite
-Julie Honore — Hi, I'm Julie Honore.. Focused on clear communication, useful public context, and opportunity-ready positioning.
+Julie Honore — Honore Advisory — advisory profile. Focused on clear communication, useful public context, and opportunity-ready positioning.
 
 ## Intro email
 Subject: Quick profile-site concept for Julie Honore
