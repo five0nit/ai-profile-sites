@@ -1,0 +1,46 @@
+{
+  "identity_confidence": 0.92,
+  "sources": [
+    {
+      "type": "company_domain",
+      "url": "https://gmail.com",
+      "title": "gmail.com",
+      "confidence": 0.55
+    },
+    {
+      "type": "search_query",
+      "url": "https://duckduckgo.com/?q=%22Michael%20Costea%22%20%22UseAIForMe%20/%20AI%20automation%22",
+      "title": "\"Michael Costea\" \"UseAIForMe / AI automation\"",
+      "confidence": 0.45
+    },
+    {
+      "type": "search_query",
+      "url": "https://duckduckgo.com/?q=%22Michael%20Costea%22%20%22gmail.com%22",
+      "title": "\"Michael Costea\" \"gmail.com\"",
+      "confidence": 0.45
+    },
+    {
+      "type": "search_query",
+      "url": "https://duckduckgo.com/?q=%22Michael%20Costea%22%20LinkedIn",
+      "title": "\"Michael Costea\" LinkedIn",
+      "confidence": 0.45
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Michael Costea is associated with UseAIForMe / AI automation or the submitted email domain.",
+      "source": "submitted email/company input",
+      "confidence": 0.72
+    },
+    {
+      "claim": "Profile generated for the stated goal: AI automation consultant landing page and personal brand demo",
+      "source": "workflow input",
+      "confidence": 0.95
+    }
+  ],
+  "queries": [
+    "\"Michael Costea\" \"UseAIForMe / AI automation\"",
+    "\"Michael Costea\" \"gmail.com\"",
+    "\"Michael Costea\" LinkedIn"
+  ]
+}
