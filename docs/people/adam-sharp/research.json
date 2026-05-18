@@ -45,6 +45,30 @@
       "confidence": 0.5
     },
     {
+      "type": "web_discovery_result",
+      "url": "https://au.linkedin.com/pub/dir/Adam/Sharp",
+      "title": "200+ \"Adam Sharp\" profiles | LinkedIn",
+      "description": "View the profiles of professionals named \"Adam Sharp\" on LinkedIn. There are 200+ professionals named \"Adam Sharp\", who use LinkedIn to exchange information, ideas, and opportunities.",
+      "query": "\"Adam Sharp\" profile",
+      "confidence": 0.5
+    },
+    {
+      "type": "web_discovery_result",
+      "url": "https://www.realestate.com.au/agent/adam-sharp-3183532",
+      "title": "Adam Sharp - MattBlak Property - CRONULLA - realestate.com.au",
+      "description": "View the profile of Adam Sharp from MattBlak Property - CRONULLA. View Adam Sharp's real estate for sale, rentals, and sold properties.",
+      "query": "\"Adam Sharp\" profile",
+      "confidence": 0.5
+    },
+    {
+      "type": "web_discovery_result",
+      "url": "https://www.datanyze.com/people/Adam-Sharp/2336300574",
+      "title": "Adam Sharp's email & phone | Aussie Broadband's Vice ... - Datanyze",
+      "description": "Adam Sharp's profile - @aussiebroadband.com.au email address, phone number, address and contact information | get free emails&phones for business contacts",
+      "query": "\"Adam Sharp\" profile",
+      "confidence": 0.5
+    },
+    {
       "type": "hermes_search_mode",
       "url": "#",
       "title": "Hermes/search-receipt mode active",
@@ -68,6 +92,15 @@
     "\"Adam Sharp\" site:linkedin.com/in",
     "\"Adam Sharp\" \"\" site:linkedin.com/in",
     "\"Adam Sharp\" \"Head of Tech\" LinkedIn"
+  ],
+  "discovery_queries": [
+    "\"Adam Sharp\" \"adamsharp7@yahoo.com\"",
+    "\"Adam Sharp\" profile",
+    "\"Adam Sharp\" LinkedIn",
+    "\"Adam Sharp\" professional"
+  ],
+  "discovered_terms": [
+    "LinkedIn"
   ],
   "profile_enrichment": {},
   "images": [],
