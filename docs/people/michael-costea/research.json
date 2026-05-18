@@ -26,6 +26,24 @@
       "confidence": 0.45
     },
     {
+      "type": "linkedin_search",
+      "url": "https://duckduckgo.com/?q=%22Michael%20Costea%22%20site%3Alinkedin.com/in",
+      "title": "\"Michael Costea\" site:linkedin.com/in",
+      "confidence": 0.5
+    },
+    {
+      "type": "linkedin_search",
+      "url": "https://duckduckgo.com/?q=%22Michael%20Costea%22%20%22UseAIForMe%20/%20AI%20automation%22%20site%3Alinkedin.com/in",
+      "title": "\"Michael Costea\" \"UseAIForMe / AI automation\" site:linkedin.com/in",
+      "confidence": 0.5
+    },
+    {
+      "type": "linkedin_search",
+      "url": "https://duckduckgo.com/?q=%22Michael%20Costea%22%20%22Head%20of%20Tech%22%20LinkedIn",
+      "title": "\"Michael Costea\" \"Head of Tech\" LinkedIn",
+      "confidence": 0.5
+    },
+    {
       "type": "brave_web_unavailable",
       "url": "#",
       "title": "HTTPError: HTTP Error 422: Unprocessable Entity",
@@ -81,6 +99,11 @@
     "\"Michael Costea\" \"UseAIForMe / AI automation\"",
     "\"Michael Costea\" \"gmail.com\"",
     "\"Michael Costea\" LinkedIn"
+  ],
+  "linkedin_queries": [
+    "\"Michael Costea\" site:linkedin.com/in",
+    "\"Michael Costea\" \"UseAIForMe / AI automation\" site:linkedin.com/in",
+    "\"Michael Costea\" \"Head of Tech\" LinkedIn"
   ],
   "profile_enrichment": {
     "summary": "Michael Costea builds AI-powered business operating systems that turn messy workflows into visible, scalable, human-reviewed systems.",
