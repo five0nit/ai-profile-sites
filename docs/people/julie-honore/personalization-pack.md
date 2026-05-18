@@ -1,7 +1,7 @@
 # Personalization Pack — Julie Honore
 
 ## Brand strategy
-Senior search, talent and board-level advisory for organisations that value integrity, fresh thinking and practical commercial judgement.
+Senior hiring is rarely just a search problem. It is a judgement problem: what the organisation needs next, what the board can support, and what kind of leader will thrive in context.
 
 ## LinkedIn bio rewrite
 Julie Honore — Director at Honore Advisory · Advisory Board contributor. Focused on clear communication, useful public context, and opportunity-ready positioning.
