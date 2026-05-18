@@ -1,0 +1,79 @@
+{
+  "identity_confidence": 0.92,
+  "sources": [
+    {
+      "type": "company_domain",
+      "url": "https://yahoo.com",
+      "title": "Yahoo! Australia | Mail, Weather, Search, Politics, News, Finance, Sports and Videos",
+      "confidence": 0.55
+    },
+    {
+      "type": "search_query",
+      "url": "https://duckduckgo.com/?q=%22Adam%20Sharp%22%20%22Yahoo%22",
+      "title": "\"Adam Sharp\" \"Yahoo\"",
+      "confidence": 0.45
+    },
+    {
+      "type": "search_query",
+      "url": "https://duckduckgo.com/?q=%22Adam%20Sharp%22%20%22yahoo.com%22",
+      "title": "\"Adam Sharp\" \"yahoo.com\"",
+      "confidence": 0.45
+    },
+    {
+      "type": "search_query",
+      "url": "https://duckduckgo.com/?q=%22Adam%20Sharp%22%20LinkedIn",
+      "title": "\"Adam Sharp\" LinkedIn",
+      "confidence": 0.45
+    },
+    {
+      "type": "linkedin_search",
+      "url": "https://duckduckgo.com/?q=%22Adam%20Sharp%22%20site%3Alinkedin.com/in",
+      "title": "\"Adam Sharp\" site:linkedin.com/in",
+      "confidence": 0.5
+    },
+    {
+      "type": "linkedin_search",
+      "url": "https://duckduckgo.com/?q=%22Adam%20Sharp%22%20%22Yahoo%22%20site%3Alinkedin.com/in",
+      "title": "\"Adam Sharp\" \"Yahoo\" site:linkedin.com/in",
+      "confidence": 0.5
+    },
+    {
+      "type": "linkedin_search",
+      "url": "https://duckduckgo.com/?q=%22Adam%20Sharp%22%20%22Head%20of%20Tech%22%20LinkedIn",
+      "title": "\"Adam Sharp\" \"Head of Tech\" LinkedIn",
+      "confidence": 0.5
+    },
+    {
+      "type": "hermes_search_mode",
+      "url": "#",
+      "title": "Hermes/search-receipt mode active",
+      "description": "n8n delegates synthesis and next-step research reasoning to Hermes while deterministic receipts preserve the exact LinkedIn/web queries used.",
+      "confidence": 0.8
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Adam Sharp is associated with Yahoo or the submitted email domain.",
+      "source": "submitted email/company input",
+      "confidence": 0.72
+    },
+    {
+      "claim": "Profile generated for the stated goal: personal brand and profile website demo",
+      "source": "workflow input",
+      "confidence": 0.95
+    }
+  ],
+  "queries": [
+    "\"Adam Sharp\" \"Yahoo\"",
+    "\"Adam Sharp\" \"yahoo.com\"",
+    "\"Adam Sharp\" LinkedIn"
+  ],
+  "linkedin_queries": [
+    "\"Adam Sharp\" site:linkedin.com/in",
+    "\"Adam Sharp\" \"Yahoo\" site:linkedin.com/in",
+    "\"Adam Sharp\" \"Head of Tech\" LinkedIn"
+  ],
+  "profile_enrichment": {},
+  "images": [],
+  "search_provider": "hermes_research_receipts"
+}
