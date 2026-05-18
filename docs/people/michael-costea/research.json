@@ -170,6 +170,40 @@
         "confidence": 0.86
       }
     ],
+    "images": [
+      {
+        "title": "Michael Costea pixel/profile portrait",
+        "thumbnail_url": "https://michaelcostea.com/assets/profile-michael-pixel.jpg",
+        "image_url": "https://michaelcostea.com/assets/profile-michael-pixel.jpg",
+        "source_url": "https://michaelcostea.com/",
+        "source_name": "michaelcostea.com",
+        "confidence": 0.9
+      },
+      {
+        "title": "Current AI setup structure diagram",
+        "thumbnail_url": "https://michaelcostea.com/assets/diagrams/current-ai-setup-structure.jpg",
+        "image_url": "https://michaelcostea.com/assets/diagrams/current-ai-setup-structure.jpg",
+        "source_url": "https://michaelcostea.com/assets/diagrams/current-ai-setup-structure.jpg",
+        "source_name": "michaelcostea.com",
+        "confidence": 0.88
+      },
+      {
+        "title": "AI Agents visual system artwork",
+        "thumbnail_url": "https://michaelcostea.com/assets/site-art/ai-agents.jpg",
+        "image_url": "https://michaelcostea.com/assets/site-art/ai-agents.jpg",
+        "source_url": "https://michaelcostea.com/",
+        "source_name": "michaelcostea.com",
+        "confidence": 0.82
+      },
+      {
+        "title": "AI Help / beginner education artwork",
+        "thumbnail_url": "https://michaelcostea.com/assets/site-art/ai-help.jpg",
+        "image_url": "https://michaelcostea.com/assets/site-art/ai-help.jpg",
+        "source_url": "https://michaelcostea.com/",
+        "source_name": "michaelcostea.com",
+        "confidence": 0.82
+      }
+    ],
     "claims": [
       {
         "claim": "Michael is currently positioning around Head of Tech, AI & Systems / CTO-track systems leadership.",
@@ -188,6 +222,39 @@
       }
     ]
   },
-  "images": [],
+  "images": [
+    {
+      "title": "Michael Costea pixel/profile portrait",
+      "thumbnail_url": "https://michaelcostea.com/assets/profile-michael-pixel.jpg",
+      "image_url": "https://michaelcostea.com/assets/profile-michael-pixel.jpg",
+      "source_url": "https://michaelcostea.com/",
+      "source_name": "michaelcostea.com",
+      "confidence": 0.9
+    },
+    {
+      "title": "Current AI setup structure diagram",
+      "thumbnail_url": "https://michaelcostea.com/assets/diagrams/current-ai-setup-structure.jpg",
+      "image_url": "https://michaelcostea.com/assets/diagrams/current-ai-setup-structure.jpg",
+      "source_url": "https://michaelcostea.com/assets/diagrams/current-ai-setup-structure.jpg",
+      "source_name": "michaelcostea.com",
+      "confidence": 0.88
+    },
+    {
+      "title": "AI Agents visual system artwork",
+      "thumbnail_url": "https://michaelcostea.com/assets/site-art/ai-agents.jpg",
+      "image_url": "https://michaelcostea.com/assets/site-art/ai-agents.jpg",
+      "source_url": "https://michaelcostea.com/",
+      "source_name": "michaelcostea.com",
+      "confidence": 0.82
+    },
+    {
+      "title": "AI Help / beginner education artwork",
+      "thumbnail_url": "https://michaelcostea.com/assets/site-art/ai-help.jpg",
+      "image_url": "https://michaelcostea.com/assets/site-art/ai-help.jpg",
+      "source_url": "https://michaelcostea.com/",
+      "source_name": "michaelcostea.com",
+      "confidence": 0.82
+    }
+  ],
   "search_provider": "fallback"
 }
